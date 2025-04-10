@@ -10,6 +10,9 @@ JNTUH Navigation is an interactive website designed to enhance the campus experi
 <li>📱 A fully mobile-friendly and responsive design for use on any device.
 The website was proudly used during JNTUH Orientation 2024 to help new students and their parents easily navigate the campus.
 
+### Interface of the JNTUH Navigation Website
+<img src="interfacejntu.png">
+
 ## 🔀 Purpose of This Project
 
 To maintain performance and manage load during high-traffic events (such as orientations), this redirect page helps by:
