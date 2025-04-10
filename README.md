@@ -13,5 +13,26 @@ The website was proudly used during JNTUH Orientation 2024 to help new students 
 ## 🔀 Purpose of This Project
 
 To maintain performance and manage load during high-traffic events (such as orientations), this redirect page helps by:
-<li>Randomly sending users to one of multiple hosted versions of the navigation website.<li/>
-<li>Balancing traffic to prevent slowdowns or downtime on any single instance.<li/>
+<li>Randomly sending users to one of multiple hosted versions of the navigation website.
+<li>Balancing traffic to prevent slowdowns or downtime on any single instance.
+
+## 🚀 How It Works
+
+<li>On page load, a small JavaScript function selects a random URL from a list of hosted navigation sites.
+<li>The browser is then automatically redirected to the selected URL.
+
+## 📁 Files Included
+
+- `index.html`: The main HTML file containing JavaScript logic for redirection.
+
+## 🛠️ Customization
+
+To add or update destination URLs, modify the `urls` array in the `<script>` section of `index.html`.
+
+## ✨ Deployment
+
+Simply host the `index.html` file on **GitHub Pages** or any web server. When accessed, it will handle redirection automatically.
+
+## 📣 Acknowledgments
+
+Special thanks to the team behind the **JNTUH Orientation 2024** for using this tool to improve the campus visit experience!
