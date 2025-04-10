@@ -5,9 +5,9 @@ This project is a lightweight HTML redirector that distributes traffic across mu
 ## 🌐 About JNTUH Navigation
 
 JNTUH Navigation is an interactive website designed to enhance the campus experience at Jawaharlal Nehru Technological University Hyderabad (JNTUH). It features:
-🏫 A clean, user-friendly directory of all major campus buildings.
-📍 Real-time integration with Google Maps for on-the-go navigation.
-📱 A fully mobile-friendly and responsive design for use on any device.
+<li>🏫 A clean, user-friendly directory of all major campus buildings.
+<li>📍 Real-time integration with Google Maps for on-the-go navigation.
+<li>📱 A fully mobile-friendly and responsive design for use on any device.
 The website was proudly used during JNTUH Orientation 2024 to help new students and their parents easily navigate the campus.
 
 ## 🔀 Purpose of This Project
